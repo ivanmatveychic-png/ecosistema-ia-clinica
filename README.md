@@ -1,6 +1,7 @@
 # Ecosistema de Automatización IA — Triage de Comunicaciones de Clínica
 
 **Proyecto Integrador Final — Curso IA Automation**
+
 Autor: Iván Matveychic Presa
 
 Sistema que recibe las comunicaciones de una clínica, las clasifica con IA (Claude), registra cada caso en una base de datos y las deriva al canal correcto (Gmail, Slack o WhatsApp). Antes de contactar a un paciente, se detiene a esperar la aprobación de un humano (HITL).
@@ -11,9 +12,9 @@ Sistema que recibe las comunicaciones de una clínica, las clasifica con IA (Cla
 
 | Recurso | Enlace |
 |---|---|
-| Base de datos (Google Sheets, solo lectura) | PEGAR_LINK_DE_LA_PLANILLA |
-| Dashboard de control (KPIs en vivo) | PEGAR_LINK_DE_LA_PESTAÑA_DASHBOARD |
-| Video demo (3 min) | PEGAR_LINK_DEL_VIDEO |
+| Base de datos (Google Sheets, solo lectura) | https://docs.google.com/spreadsheets/d/1kbTBznp1Dtk4btt6cBMJyqfYmWyAc7yIjtWf2E1WSBQ/edit?usp=sharing |
+| Dashboard de control (KPIs en vivo) | https://docs.google.com/spreadsheets/d/1kbTBznp1Dtk4btt6cBMJyqfYmWyAc7yIjtWf2E1WSBQ/edit?gid=1421898340#gid=1421898340 |
+| Video demo (3 min) | Pendiente |
 
 ---
 
