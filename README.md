@@ -14,7 +14,7 @@ Sistema que recibe las comunicaciones de una clínica, las clasifica con IA (Cla
 |---|---|
 | Base de datos (Google Sheets, solo lectura) | https://docs.google.com/spreadsheets/d/1kbTBznp1Dtk4btt6cBMJyqfYmWyAc7yIjtWf2E1WSBQ/edit?usp=sharing |
 | Dashboard de control (KPIs en vivo) | https://docs.google.com/spreadsheets/d/1kbTBznp1Dtk4btt6cBMJyqfYmWyAc7yIjtWf2E1WSBQ/edit?gid=1421898340#gid=1421898340 |
-| Video demo (3 min) | Pendiente |
+| Video demo (3 min) | https://drive.google.com/file/d/1Z8jl0Jf15VIA4rnaQdjOk3LptpQa4AVU/view?usp=sharing |
 
 ---
 
